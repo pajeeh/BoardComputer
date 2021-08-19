@@ -1,10 +1,11 @@
-/*  Este programa foi desenvolvido por Luis A. G. Dos Santos 
-*   em Faculdade de Tecnologia da UNICAMP.
-*   Nome: LUIS AUGUSTO GOMES DOS SANTOS
-*   RA: 256647
-*   Professor: Varese Salvador Timóteo
-*   Disciplina: Programação Orientada A Objetos I
-*************************************************************
+/*
+***************************************************************
+*   Este programa foi desenvolvido por Luis A. G. Dos Santos  *
+*   em Faculdade de Tecnologia da UNICAMP.                    *
+*   RA: 256647                                                *
+*   Professor: Varese Salvador Timóteo                        *
+*   Disciplina: Programação Orientada A Objetos I             *
+***************************************************************
 *   Valores de consumo e desempenho baseados em carros populares de 2021
 *   Combustível: Gasolina
 *   Horário: Brasília (DF)
