@@ -1,10 +1,11 @@
-/*  Este programa foi desenvolvido por Luis A. G. Dos Santos 
-*   em Faculdade de Tecnologia da UNICAMP.
-*   RA: 256647
-*   Professor: Varese Salvador Timóteo
-*   Disciplina: Programação Orientada A Objetos I
-*************************************************************
-*   Adicionar mais funções...
+/*
+***************************************************************
+*   Este programa foi desenvolvido por Luis A. G. Dos Santos  *
+*   em Faculdade de Tecnologia da UNICAMP.                    *
+*   RA: 256647                                                *
+*   Professor: Varese Salvador Timóteo                        *
+*   Disciplina: Programação Orientada A Objetos I             *
+***************************************************************
 */
 
 #ifndef COLORS_H
